@@ -4,6 +4,6 @@ import App from 'App';
 
 test('renders App', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/Watch/i);
+  const linkElement = getByText(/Tournament/i);
   expect(linkElement).toBeInTheDocument();
 });
