@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const BASE_URL = 'http://localhost:5000';
-// const BASE_URL = 'https://cruceum.herokuapp.com';
+const BASE_URL = 'https://cruceum.herokuapp.com';
 
 type ClientFn = (url: string, params?: object) => [
   any, // fetch result
