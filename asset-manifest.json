@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/watch/static/js/main.dcf29b33.chunk.js",
-    "main.js.map": "/watch/static/js/main.dcf29b33.chunk.js.map",
-    "runtime-main.js": "/watch/static/js/runtime-main.158b45df.js",
-    "runtime-main.js.map": "/watch/static/js/runtime-main.158b45df.js.map",
-    "static/js/2.bca77548.chunk.js": "/watch/static/js/2.bca77548.chunk.js",
-    "static/js/2.bca77548.chunk.js.map": "/watch/static/js/2.bca77548.chunk.js.map",
-    "static/js/3.5d834982.chunk.js": "/watch/static/js/3.5d834982.chunk.js",
-    "static/js/3.5d834982.chunk.js.map": "/watch/static/js/3.5d834982.chunk.js.map",
-    "index.html": "/watch/index.html",
-    "precache-manifest.ce84c93b24c704ea1114794dd44fd5f9.js": "/watch/precache-manifest.ce84c93b24c704ea1114794dd44fd5f9.js",
-    "service-worker.js": "/watch/service-worker.js",
-    "static/js/2.bca77548.chunk.js.LICENSE.txt": "/watch/static/js/2.bca77548.chunk.js.LICENSE.txt"
+    "main.js": "/cavea/static/js/main.1349a89d.chunk.js",
+    "main.js.map": "/cavea/static/js/main.1349a89d.chunk.js.map",
+    "runtime-main.js": "/cavea/static/js/runtime-main.3fe4c3bf.js",
+    "runtime-main.js.map": "/cavea/static/js/runtime-main.3fe4c3bf.js.map",
+    "static/js/2.2929527a.chunk.js": "/cavea/static/js/2.2929527a.chunk.js",
+    "static/js/2.2929527a.chunk.js.map": "/cavea/static/js/2.2929527a.chunk.js.map",
+    "static/js/3.5d834982.chunk.js": "/cavea/static/js/3.5d834982.chunk.js",
+    "static/js/3.5d834982.chunk.js.map": "/cavea/static/js/3.5d834982.chunk.js.map",
+    "index.html": "/cavea/index.html",
+    "precache-manifest.a54272a1c96edb347500eb5d0d01fac7.js": "/cavea/precache-manifest.a54272a1c96edb347500eb5d0d01fac7.js",
+    "service-worker.js": "/cavea/service-worker.js",
+    "static/js/2.2929527a.chunk.js.LICENSE.txt": "/cavea/static/js/2.2929527a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.158b45df.js",
-    "static/js/2.bca77548.chunk.js",
-    "static/js/main.dcf29b33.chunk.js"
+    "static/js/runtime-main.3fe4c3bf.js",
+    "static/js/2.2929527a.chunk.js",
+    "static/js/main.1349a89d.chunk.js"
   ]
 }
