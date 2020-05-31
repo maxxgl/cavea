@@ -59,11 +59,9 @@ const useClient: ClientFn = (endpoint, params) => {
   return [response, { error, isLoading }];
 };
 
-/*
- * SDK Functions
- */
-
+/* eslint-disable react-hooks/rules-of-hooks */
 export default {
-  // eslint-disable-next-line react-hooks/rules-of-hooks
   getTournamentList: () => useClient('tournament'),
+  getTournament: (id?: string) => useClient(`tournament/${id}`),
 }
+/* eslint-enable react-hooks/rules-of-hooks */

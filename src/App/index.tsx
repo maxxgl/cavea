@@ -6,14 +6,14 @@ import routes from 'routes';
 import AppContainer from './AppContainer';
 import LandingPage from 'LandingPage';
 
-const NodePanel = lazy(() => import('LandingPage'));
+const Tournament = lazy(() => import('Tournament'));
 
 const App: React.FC = () => (
   <AppContainer>
     <Suspense fallback={<div>Loading...</div>}>
       <Switch>
-        <Route path={routes.tournament}>
-          <NodePanel />
+        <Route path={`${routes.tournament}/:id`}>
+          <Tournament />
         </Route>
         <Switch>
           <LandingPage />
