@@ -1,6 +1,6 @@
 const ROUTES = {
   control: '/control',
-  node: '/node',
+  tournament: '/tournament',
   swarm: '/swarm',
 };
 
