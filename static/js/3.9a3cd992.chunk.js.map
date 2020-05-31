@@ -1,0 +1,1 @@
+{"version":3,"sources":["NodePanel/index.tsx"],"names":["Node"],"mappings":"+FAAA,kBAQeA,UANQ,kBACrB,2BACE","file":"static/js/3.9a3cd992.chunk.js","sourcesContent":["import * as React from 'react';\n\nconst Node: React.FC = () => (\n  <div>\n    <h1>Node Controller</h1>\n  </div>\n);\n\nexport default Node;\n"],"sourceRoot":""}
