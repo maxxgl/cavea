@@ -6,6 +6,7 @@ import { useParams } from 'react-router-dom';
 const Grid = Styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
   grid-gap: 1em;
 
   &> div:nth-child(even) {
@@ -18,14 +19,16 @@ const Entry = Styled.div`
   padding: 1em;
   display: flex;
   flex-direction: column;
-  width: min-content;
+  width: 5.5em;
+  justify-content: center;
 
   & > span {
-    font-size: 1.25em;
+    text-align: center;
   }
 
   & > img {
     height: 3em;
+    margin: 0 auto;
   }
 `;
 
